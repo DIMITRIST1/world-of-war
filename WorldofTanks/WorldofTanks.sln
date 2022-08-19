@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WorldofTanks", "WorldofTanks\WorldofTanks.vcxproj", "{BF47F079-9DB9-4464-ADA5-4A5B3640BBBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF47F079-9DB9-4464-ADA5-4A5B3640BBBA}.Debug|x64.ActiveCfg = Debug|x64
+		{BF47F079-9DB9-4464-ADA5-4A5B3640BBBA}.Debug|x64.Build.0 = Debug|x64
+		{BF47F079-9DB9-4464-ADA5-4A5B3640BBBA}.Debug|x86.ActiveCfg = Debug|Win32
+		{BF47F079-9DB9-4464-ADA5-4A5B3640BBBA}.Debug|x86.Build.0 = Debug|Win32
+		{BF47F079-9DB9-4464-ADA5-4A5B3640BBBA}.Release|x64.ActiveCfg = Release|x64
+		{BF47F079-9DB9-4464-ADA5-4A5B3640BBBA}.Release|x64.Build.0 = Release|x64
+		{BF47F079-9DB9-4464-ADA5-4A5B3640BBBA}.Release|x86.ActiveCfg = Release|Win32
+		{BF47F079-9DB9-4464-ADA5-4A5B3640BBBA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E9B8FEB-B3D2-441C-9379-BED081DB0189}
+	EndGlobalSection
+EndGlobal
